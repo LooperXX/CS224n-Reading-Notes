@@ -17,7 +17,9 @@
 
 笔记制作不易，诸多纰漏错误之处，还望大家海涵，并请在 issue 区提出，以便定时查看并更新
 
-本笔记仅供学习分享之用，请勿私自商用。由于Git-LFS的免费空间不足，现将笔记整合版PDF迁移至[蓝奏云](https://wwp.lanzouo.com/iQ07Kx9tyqb) (密码:h04j)
+本笔记仅供学习分享之用，请勿私自商用。
+
+由于Git-LFS的免费空间不足，现将笔记的**整合版PDF**迁移至[蓝奏云](https://wwp.lanzouo.com/iQ07Kx9tyqb) (密码:h04j)，笔记的**Markdown源文件**的压缩包迁移至[Google Drive](https://drive.google.com/file/d/1Yi7ubtu4DU3Hmp6SVZRqq5jj8D3KqxMN/view?usp=sharing)
 
 笔记如有任何侵权之处，请联系 LooperXX@outlook.com 
 
